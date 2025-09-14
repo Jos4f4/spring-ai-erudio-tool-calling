@@ -1,0 +1,32 @@
+package br.com.erudio.services;
+
+import java.util.function.Function;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.web.client.RestTemplate;
+
+import br.com.erudio.api.StockRequest;
+import br.com.erudio.api.StockResponse;
+
+public class StockService implements Function<StockRequest, StockResponse> {
+	
+	private static final Logger logger = LoggerFactory.getLogger(StockService.class);
+	
+	private RestTemplate restTemplate;
+	
+	public StockService(RestTemplate restTemplate) {
+		this.restTemplate = restTemplate;
+	}
+
+	@Value("${TWELVE_DATA_API_KEY:none}")
+	String apiKey;
+	
+	@Override
+	public StockResponse apply(StockRequest t) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

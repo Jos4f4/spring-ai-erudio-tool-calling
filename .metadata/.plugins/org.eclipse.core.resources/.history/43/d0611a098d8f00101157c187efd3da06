@@ -1,0 +1,9 @@
+package br.com.erudio.api;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+
+public class DailyStockData {
+	
+	@JsonProperty("datetime")
+	private String datetime;
+}

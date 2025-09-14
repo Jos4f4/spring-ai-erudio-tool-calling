@@ -1,0 +1,11 @@
+package br.com.erudio.services;
+
+import java.util.function.Supplier;
+
+import br.com.erudio.api.WalletResponse;
+import br.com.erudio.repositories.WalletRepository;
+
+public class WalletService implements Supplier<WalletResponse> {
+	
+	private WalletRepository repository;
+}

@@ -1,0 +1,10 @@
+spring:
+ application:
+  name: spring-ai-erudio-tool-calling
+ ai:
+  openai:
+   api-key: ${OPEN_AI_API_KEY}
+
+ datasource:
+  driver-class-name: com.my.sql.cj.jdbc.Driver
+  url: jdbc:mysql://localhost:3306/spring_ai_tool_calling_erudio

@@ -1,0 +1,26 @@
+package br.com.erudio.config;
+
+import java.util.function.Supplier;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.web.client.RestTemplate;
+
+import br.com.erudio.api.WalletResponse;
+import br.com.erudio.repositories.WalletRepository;
+import br.com.erudio.services.WalletService;
+
+@Configuration
+public class WalletConfig {
+	
+	@Bean
+	public RestTemplate restTemplate() {
+		return new RestTemplate();
+	}
+	
+	@Bean
+	@Description("Number of shares for each company in my portfolio")
+	public Supplier<WalletResponse> numberOfShare(WalletRepository repository){
+		return new WalletService(repository);
+	}
+}
