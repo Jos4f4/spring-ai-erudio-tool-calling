@@ -1,7 +1,0 @@
-package br.com.erudio.repositories;
-
-import br.com.erudio.entities.Share;
-
-public class WalletRepository extends JpaRepository<Share, Long>{
-
-}
