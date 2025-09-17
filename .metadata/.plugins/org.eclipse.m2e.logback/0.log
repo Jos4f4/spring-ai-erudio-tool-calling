@@ -267,3 +267,109 @@
 2025-09-13 02:10:31,345 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-09-13 02:10:31,350 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
 2025-09-13 02:10:31,352 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-16 00:04:17,640 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-09-16 01:14:39,265 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-16 01:14:39,313 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-16 01:14:39,319 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-16 01:14:52,052 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-16 01:14:52,060 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-16 01:14:52,065 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-16 01:18:40,982 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-16 01:18:40,991 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-16 01:18:40,997 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-16 01:22:28,229 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-16 01:22:28,237 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-16 01:22:28,242 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-16 01:25:40,310 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-16 01:25:40,353 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-16 01:25:40,369 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-16 01:26:57,355 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-16 01:26:57,360 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-16 01:26:57,364 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-16 01:27:12,579 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-16 01:27:12,588 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-16 01:27:12,592 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-16 01:27:51,565 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-16 01:27:51,571 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-16 01:27:51,577 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-16 01:28:41,151 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-16 01:28:41,156 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-16 01:28:41,160 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-16 01:29:08,540 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-16 01:29:08,545 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-16 01:29:08,549 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-16 01:32:41,895 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-16 01:32:41,896 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-16 01:32:41,902 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-16 01:32:48,403 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-16 01:32:48,404 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-16 01:32:48,407 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-17 00:10:41,331 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-17 00:10:41,350 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-17 00:10:41,366 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-17 00:14:39,210 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-17 00:14:39,237 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-17 00:14:39,241 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-17 00:16:11,919 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-17 00:16:11,926 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-17 00:16:11,929 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-17 00:19:06,486 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-17 00:19:06,496 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-17 00:19:06,502 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-17 00:23:01,289 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-17 00:23:01,295 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-17 00:23:01,298 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-17 00:26:25,266 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-17 00:26:25,273 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-17 00:26:25,276 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-17 00:30:05,028 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-17 00:30:05,035 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-17 00:30:05,056 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-17 00:30:56,082 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-17 00:30:56,087 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-17 00:30:56,090 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-17 00:33:53,956 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-17 00:33:53,966 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-17 00:33:53,971 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-17 00:35:31,811 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-17 00:35:31,830 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-17 00:35:31,834 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-17 00:37:22,730 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-17 00:37:22,736 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-17 00:37:22,742 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-17 00:40:14,754 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-17 00:40:14,755 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-17 00:40:14,758 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-17 00:40:38,783 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-17 00:40:38,786 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-17 00:40:38,791 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-17 00:49:31,119 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-17 00:49:31,125 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-17 00:49:31,129 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-17 00:54:09,454 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-17 00:54:09,461 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-17 00:54:09,465 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-17 00:54:43,383 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-17 00:54:43,389 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-17 00:54:43,394 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-17 00:58:58,581 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-17 00:58:58,589 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-17 00:58:58,593 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-17 01:02:25,014 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-17 01:02:25,022 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-17 01:02:25,026 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-17 01:02:44,116 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-17 01:02:44,124 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-17 01:02:44,127 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-17 01:03:23,418 [Worker-53: Launching spring-ai-erudio-tool-calling - SpringAiErudioToolCallingApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-17 01:03:23,428 [Worker-53: Launching spring-ai-erudio-tool-calling - SpringAiErudioToolCallingApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-17 01:03:23,435 [Worker-53: Launching spring-ai-erudio-tool-calling - SpringAiErudioToolCallingApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-17 01:05:29,420 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-17 01:05:29,427 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-17 01:05:29,434 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-17 01:07:40,435 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-17 01:07:40,439 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-17 01:07:40,443 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
+2025-09-17 01:07:51,192 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-17 01:07:51,193 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-17 01:07:51,195 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-ai-erudio-tool-calling\spring-ai-erudio-tool-calling\src\test\resources
