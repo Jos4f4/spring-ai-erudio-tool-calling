@@ -1,0 +1,20 @@
+package br.com.erudio.tools;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.web.client.RestTemplate;
+
+public class StockTools {
+	
+	private static final Logger logger = LoggerFactory.getLogger(StockTools.class);
+	
+	@Value("${TWELVE_DATA_API_KEY:none}")
+	String apiKey;
+	
+	private RestTemplate restTemplate;
+	
+	public StockTools(RestTemplate restTemplate) {
+		this.restTemplate = restTemplate;
+	}
+}

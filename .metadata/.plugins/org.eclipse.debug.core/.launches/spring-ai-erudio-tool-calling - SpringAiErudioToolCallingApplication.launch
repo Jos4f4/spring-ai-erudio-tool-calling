@@ -7,6 +7,9 @@
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
         <listEntry value="1"/>
     </listAttribute>
+    <mapAttribute key="org.eclipse.debug.core.environmentVariables">
+        <mapEntry key="OPEN_AI_API_KEY" value="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"/>
+    </mapAttribute>
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_ATTR_USE_ARGFILE" value="false"/>
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_SHOW_CODEDETAILS_IN_EXCEPTION_MESSAGES" value="true"/>

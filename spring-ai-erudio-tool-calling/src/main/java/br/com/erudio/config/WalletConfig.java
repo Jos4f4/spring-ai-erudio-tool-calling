@@ -14,6 +14,8 @@ import br.com.erudio.api.WalletResponse;
 import br.com.erudio.repositories.WalletRepository;
 import br.com.erudio.services.StockService;
 import br.com.erudio.services.WalletService;
+import br.com.erudio.tools.StockTools;
+import br.com.erudio.tools.WalletTools;
 
 @Configuration
 public class WalletConfig {
@@ -33,5 +35,15 @@ public class WalletConfig {
 	@Description("Latest Stock Prices")
 	public Function<StockRequest, StockResponse> latestStockPrices(){
 		return new StockService(restTemplate());
+	}
+	
+	@Bean
+	public WalletTools walletTools(WalletRepository repository) {
+		return new WalletTools(repository);
+	}
+	
+	@Bean 
+	public StockTools stockTools() {
+		return new StockTools(restTemplate());
 	}
 }
